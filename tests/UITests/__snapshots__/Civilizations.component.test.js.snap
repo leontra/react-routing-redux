@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<div>
+  <h1>
+    Civilizations
+  </h1>
+  <div>
+    <p>
+      Loading...
+    </p>
+  </div>
+  <div
+    className="list-container"
+  />
+</div>
+`;
