@@ -8,7 +8,7 @@
     "react-dom": "^16.9.0",
     "react-redux": "^7.1.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,7 +38,7 @@
     "babel-jest": "^24.8.0",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
-    "jest-cli": "^24.9.0",
+    "jest-cli": "^30.2.0",
     "react-addons-test-utils": "^15.6.2",
     "react-test-renderer": "^16.9.0",
     "redux": "^4.0.4",
